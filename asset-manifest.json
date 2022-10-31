@@ -1,9 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.d10cf660.css",
-    "main.js": "/static/js/main.a8e07d0d.js",
+    "main.css": "/static/css/main.4d7d767f.css",
+    "main.js": "/static/js/main.cba66713.js",
     "static/js/314.ca67b3ab.chunk.js": "/static/js/314.ca67b3ab.chunk.js",
-    "static/js/906.831ae34f.chunk.js": "/static/js/906.831ae34f.chunk.js",
+    "static/js/906.39775572.chunk.js": "/static/js/906.39775572.chunk.js",
     "static/media/the-cheetahs.wav": "/static/media/the-cheetahs.854075383b4ffffff52c.wav",
     "static/media/fire.gif": "/static/media/fire.6959a22afdd2bb9b358e.gif",
     "static/media/cheetahs.png": "/static/media/cheetahs.20e94733e88445480d35.png",
@@ -18,7 +18,7 @@
     "static/media/pause.svg": "/static/media/pause.d1d73b06c7b701a0a1d4467ac686ef01.svg"
   },
   "entrypoints": [
-    "static/css/main.d10cf660.css",
-    "static/js/main.a8e07d0d.js"
+    "static/css/main.4d7d767f.css",
+    "static/js/main.cba66713.js"
   ]
 }
